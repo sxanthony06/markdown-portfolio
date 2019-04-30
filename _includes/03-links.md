@@ -1,1 +1,1 @@
-Link to Github profile: https://github.com/sxanthony06
+[Stephen Anthony's Github profile](https://github.com/sxanthony06)
